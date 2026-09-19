@@ -2,6 +2,10 @@
 
 Pipeline ETL de ventes construit avec PySpark. Les données passent par trois niveaux de qualité, puis sont modélisées en étoile, chargées dans PostgreSQL et visualisées dans un dashboard Streamlit.
 
+## Démo
+
+[Regarder la vidéo de démonstration](pipeline%20vente.mp4)
+
 ## Architecture
 
 ```text
