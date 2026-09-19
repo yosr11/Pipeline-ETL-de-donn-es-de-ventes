@@ -4,7 +4,10 @@ Pipeline ETL de ventes construit avec PySpark. Les données passent par trois ni
 
 ## Démo
 
-[Regarder la vidéo de démonstration](pipeline%20vente.mp4)
+<video controls width="720">
+        <source src="https://raw.githubusercontent.com/yosr11/Pipeline-ETL-de-donn-es-de-ventes/main/pipeline%20vente.mp4" type="video/mp4">
+        Votre navigateur ne prend pas en charge la lecture vidéo.
+</video>
 
 ## Architecture
 
