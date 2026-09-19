@@ -2,7 +2,7 @@
 
 Pipeline ETL de ventes construit avec PySpark. Les données passent par trois niveaux de qualité, puis sont modélisées en étoile, chargées dans PostgreSQL et visualisées dans un dashboard Streamlit.
 
-## Démo
+
 
 <video controls width="720">
         <source src="https://raw.githubusercontent.com/yosr11/Pipeline-ETL-de-donn-es-de-ventes/main/pipeline%20vente.mp4" type="video/mp4">
@@ -136,3 +136,8 @@ Le dashboard affiche :
 └── tests/
     └── test_quality.py      # Tests de qualité des données
 ```
+## Démo
+
+
+https://github.com/user-attachments/assets/7d99cc09-eec4-40f8-9098-1909e23a7c66
+
